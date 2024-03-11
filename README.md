@@ -12,3 +12,4 @@ Self-made edit of Bloodlust, Hate and Gasoline, and Sharpness's 300k pack, along
 **Bloodlust:** https://www.youtube.com/watch?v=cBw2_f3agpY
 
 **[PRIVATE] Hate And Gasoline:** https://discord.gg/ybZD3A9g (Discord invite for the creator's server, get the pack there)
+* ^^ There are NSFW bots in that server, just ignore those and get the pack.
