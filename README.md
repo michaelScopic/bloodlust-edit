@@ -2,8 +2,11 @@
 
 Self-made edit of Bloodlust, Hate and Gasoline, and Sharpness's 300k pack, along with a glint. Just a mashup of all three of those packs.
 
+Just a pre-warning, I have zero clue how to make texture packs, I just copied and pasted textures from one pack to another. 💀
+
 ## Previews
 
+WIP
 
 ## Credits
 
