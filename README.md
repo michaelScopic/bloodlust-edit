@@ -8,11 +8,19 @@ Just a pre-warning, I have zero clue how to make texture packs, I just copied an
 
 Download the texture pack here: https://www.mediafire.com/file/yjrbt2ysi3jgr0k/§6§lBloodlust+EDIT+§6§l.zip/file
 
-(Don't download from this page's releases, as the color formating will be messed up)
+**(Don't download from this page's releases, as the color formating will be messed up)**
 
 ## Previews
 
-WIP
+Below is a video showcasing my pack (click on it):
+
+[![Video showcase](https://img.youtube.com/vi/-2pX-B2xA7s/hqdefault.jpg)](https://www.youtube.com/embed/-2pX-B2xA7s)
+
+Basic overview of the pack:
+
+![Screenshot 2024-03-14 232525](https://github.com/michaelScopic/bloodlust-edit/assets/67214805/e1e7b6a2-7329-4fe8-8e18-a900f0078839)
+
+
 
 ## Credits
 
