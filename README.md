@@ -12,13 +12,13 @@ Download the texture pack here: https://www.mediafire.com/file/yjrbt2ysi3jgr0k/Â
 
 ## Previews
 
-Below is a video showcasing my pack (click on it):
+YouTube video showcasing my pack (click on it):
 
 [![Video showcase](https://img.youtube.com/vi/-2pX-B2xA7s/hqdefault.jpg)](https://www.youtube.com/embed/-2pX-B2xA7s)
 
 Basic overview of the pack:
 
-![Screenshot 2024-03-14 232525](https://github.com/michaelScopic/bloodlust-edit/assets/67214805/e1e7b6a2-7329-4fe8-8e18-a900f0078839)
+![Screenshot 2024-03-15 004404](https://github.com/michaelScopic/bloodlust-edit/assets/67214805/29aaad1f-f329-4243-80d5-41129031cdc3)
 
 
 
