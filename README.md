@@ -6,7 +6,7 @@ Just a pre-warning, I have zero clue how to make texture packs, I just copied an
 
 ## Download link
 
-Download the texture pack here: https://www.mediafire.com/file/yjrbt2ysi3jgr0k/§6§lBloodlust+EDIT+§6§l.zip/file
+Download the texture pack here:[ https://www.mediafire.com/file/yjrbt2ysi3jgr0k/§6§lBloodlust+EDIT+§6§l.zip/file](https://www.mediafire.com/file/1fgc0lnef7l5uxa/§4§lBlood§5§c§lLust+§3§o§l+EDIT.zip/file)
 
 **(Don't download from this page's releases, as the color formating will be messed up)**
 
