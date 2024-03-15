@@ -4,6 +4,12 @@ Self-made edit of Bloodlust, Hate and Gasoline, and Sharpness's 300k pack, along
 
 Just a pre-warning, I have zero clue how to make texture packs, I just copied and pasted textures from one pack to another and somehow it works. 💀
 
+## Download link
+
+Download the texture pack here: https://www.mediafire.com/file/yjrbt2ysi3jgr0k/§6§lBloodlust+EDIT+§6§l.zip/file
+
+(Don't download from this page's releases, as the color formating will be messed up)
+
 ## Previews
 
 WIP
