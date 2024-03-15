@@ -1,0 +1,6 @@
+{
+    "parent": "item/tools",
+    "textures": {
+        "layer0": "item/stone_shovel"
+    }
+}

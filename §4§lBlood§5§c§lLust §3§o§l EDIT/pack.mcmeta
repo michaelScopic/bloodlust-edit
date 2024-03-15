@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "description": "§1§bMade by: §2§oMichael_Scopic           (Discord: michael_scopic.zsh)",
+    "pack_format": 16,
+    "supported_formats": {
+		"min_inclusive": 16, 
+		"max_inclusive": 256
+	}
+  }
+}

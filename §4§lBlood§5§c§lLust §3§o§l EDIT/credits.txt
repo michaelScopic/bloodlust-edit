@@ -1,0 +1,32 @@
+-- ALL CREDITS GO TO THEIR RESPECTIVE OWNER --
+
+Kosma (Depression Wave, Hate & Gasoline):
+ - Netherite sword design
+ - Gapples
+ - Ender pearls
+ - Totems
+ - XP Bottles
+
+Kissugi (Bloodlust):
+ - Anchors
+ - Crystals
+ - Crying obsidian
+ - Obsidian
+ - Bedrock
+
+
+Sharpness (300k pack):
+ - Sword design
+ - Powdered snow
+ - Low fire/sheild
+ - No lava/water overlay
+ - Pretty much the rest of the pack
+
+Idk who made Rainbow Outline:
+ - Literally the entireity of the rainbow outline 
+  - Located in: ./assests/minecraft/shaders/*
+
+Idk who made the Fancy Glint:
+ - The enitre glint pack
+  - Located in: ./assests/minecraft/textures/misc/enchanted_glint_*
+
