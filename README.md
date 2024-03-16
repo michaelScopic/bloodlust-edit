@@ -30,3 +30,17 @@ Basic overview of the pack:
 
 **[PRIVATE] Hate And Gasoline:** https://discord.gg/ybZD3A9g (Discord invite for the creator's server, get the pack there)
 * ^^ There are NSFW bots in that server, just ignore those and get the pack.
+
+## FAQ
+
+1. I have a suggestion for the pack! | There's an issue/bug with this pack!
+
+* Create a GitHub issue or message me on Discord: `michael_scopic.zsh`
+
+2. Am I able to freely use this pack for myself?
+
+* Yes, of course. If you redistribute it, please credit me by linking my GitHub and/or YouTube video.
+
+3. Can you port this to Bedrock Minecraft?
+
+* As of now, probably not. If I am convinced to, then sure.
